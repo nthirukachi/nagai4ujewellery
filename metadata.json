@@ -1,0 +1,6 @@
+{
+  "name": "nagai4u",
+  "description": "Every enquiry answered, every buyer followed up. For Jewellery Store, Real Estate, Industries in Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
